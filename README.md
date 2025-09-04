@@ -76,9 +76,9 @@ pip install -r requirements.txt
 
 ![Profit by State](output/top_5_states_profit_bar_chart.png)
 *Bar chart showing profit distribution across states*
-![Report Screenshoot](Outpit/Output_pdf.png)
-![Report Screenshoot _2](Outpit/Output_pdf_01.png)
-*Here are the Screenshoot of the PDF*
+
+#*Note*
+the PDF report SCrrenshhot are in output file 
 ---
 
 ## 📄 License

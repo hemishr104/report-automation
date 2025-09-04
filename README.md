@@ -1,6 +1,6 @@
 Perfect! Here's a fully designed, ready-to-paste `README.md` for GitHub. I’ve included badges, clean formatting, placeholders for images/screenshots, and a polished layout:
 
-````markdown
+
 # 🚀 Superstore Report Automation
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  
@@ -9,7 +9,6 @@ Perfect! Here's a fully designed, ready-to-paste `README.md` for GitHub. I’ve 
 
 Automate your **Superstore Sales Analysis**! Clean data, compute key metrics, generate charts, and produce a professional PDF report in minutes.  
 
----
 
 ## 🌟 Features
 

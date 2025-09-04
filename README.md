@@ -1,5 +1,3 @@
-Perfect! Here's a fully designed, ready-to-paste `README.md` for GitHub. I’ve included badges, clean formatting, placeholders for images/screenshots, and a polished layout:
-
 
 # 🚀 Superstore Report Automation
 
